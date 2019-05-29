@@ -1,0 +1,17 @@
+{
+    "name": "andersonmadeira/php-reflection-experiments",
+    "description": "PHP Reflection / Code Inspection Experiments",
+    "homepage": "https://github.com/andersonmadeira/php-reflection-experiments",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anderson Madeira",
+            "email": "andersonmadeiracs@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    },
+    "require": {}
+}
